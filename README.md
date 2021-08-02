@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubr12&label=Profile%20views&color=0e75b6&style=flat" alt="jakubr12" /> </p>
 
-- 🌱 I’m currently learning **foundations of biology, chemistry and physics**
+- 🌱 I’m currently switching from **cognitive science to medicine**
 
 - 📫 How to reach me **kuba.raszka12@gmail.com**
 
